@@ -7,7 +7,7 @@ Simple Calculator using HTML, CSS, JS
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo Calculator
 [👉 Click here to use the Calculator](https://xyzvikram.github.io/calculator-project/)
 
 ---

@@ -21,4 +21,4 @@ If you want to contribute, fork the repo and submit a pull request.
 ## ⭐ Support 
 If you like this project, please give it a *star* ⭐ on GitHub!
 
-----
+---
